@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bundle SchemaVersion="3.0" xmlns="http://schemas.microsoft.com/appx/2013/bundle">
+	<Identity Name="Microsoft.Office.OneNote" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="2015.9330.20531.0"/>
+	<Packages>
+		<Package Type="application" Version="17.9330.20531.0" Architecture="x86" FileName="OnenoteIm_x86.appx" Offset="173835963" Size="43383724">
+			<Resources>
+				<Resource Language="en-us"/>
+				<Resource Language="en-gb"/>
+			</Resources>
+		</Package>
+		<Package Type="application" Version="17.9330.20531.0" Architecture="x64" FileName="OnenoteIm_x64.appx" Offset="117232853" Size="56603038">
+			<Resources>
+				<Resource Language="en-us"/>
+				<Resource Language="en-gb"/>
+			</Resources>
+		</Package>
+		<Package Type="application" Version="17.9330.20531.0" Architecture="arm" FileName="OnenoteIm_arm.appx" Offset="68413478" Size="48819303">
+			<Resources>
+				<Resource Language="en-us"/>
+				<Resource Language="en-gb"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="af-za" FileName="OnenoteIm.language-af-za.appx" Offset="59" Size="1029071">
+			<Resources>
+				<Resource Language="af-za"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="am-et" FileName="OnenoteIm.language-am-et.appx" Offset="1029213" Size="938962">
+			<Resources>
+				<Resource Language="am-et"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ar-sa" FileName="OnenoteIm.language-ar-sa.appx" Offset="1968258" Size="1205042">
+			<Resources>
+				<Resource Language="ar-sa"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="az-latn-az" FileName="OnenoteIm.language-az-latn-az.appx" Offset="3173388" Size="955284">
+			<Resources>
+				<Resource Language="az-latn-az"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="be-by" FileName="OnenoteIm.language-be-by.appx" Offset="4128755" Size="1048011">
+			<Resources>
+				<Resource Language="be-by"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="bg-bg" FileName="OnenoteIm.language-bg-bg.appx" Offset="5176849" Size="1117871">
+			<Resources>
+				<Resource Language="bg-bg"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="bn-bd" FileName="OnenoteIm.language-bn-bd.appx" Offset="6294803" Size="994207">
+			<Resources>
+				<Resource Language="bn-bd"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="bs-latn-ba" FileName="OnenoteIm.language-bs-latn-ba.appx" Offset="7289098" Size="840772">
+			<Resources>
+				<Resource Language="bs-latn-ba"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ca-es" FileName="OnenoteIm.language-ca-es.appx" Offset="8129953" Size="1092865">
+			<Resources>
+				<Resource Language="ca-es"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="cs-cz" FileName="OnenoteIm.language-cs-cz.appx" Offset="9222901" Size="1006667">
+			<Resources>
+				<Resource Language="cs-cz"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="da-dk" FileName="OnenoteIm.language-da-dk.appx" Offset="10229651" Size="1067504">
+			<Resources>
+				<Resource Language="da-dk"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="de-de" FileName="OnenoteIm.language-de-de.appx" Offset="11297238" Size="1124534">
+			<Resources>
+				<Resource Language="de-de"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="el-gr" FileName="OnenoteIm.language-el-gr.appx" Offset="12421855" Size="1133514">
+			<Resources>
+				<Resource Language="el-gr"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="es-es" FileName="OnenoteIm.language-es-es.appx" Offset="13555452" Size="1093626">
+			<Resources>
+				<Resource Language="es-es"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="es-mx" FileName="OnenoteIm.language-es-mx.appx" Offset="14649161" Size="841467">
+			<Resources>
+				<Resource Language="es-mx"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="et-ee" FileName="OnenoteIm.language-et-ee.appx" Offset="15490711" Size="1061676">
+			<Resources>
+				<Resource Language="et-ee"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="eu-es" FileName="OnenoteIm.language-eu-es.appx" Offset="16552470" Size="1071282">
+			<Resources>
+				<Resource Language="eu-es"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="fa-ir" FileName="OnenoteIm.language-fa-ir.appx" Offset="17623835" Size="895484">
+			<Resources>
+				<Resource Language="fa-ir"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="fi-fi" FileName="OnenoteIm.language-fi-fi.appx" Offset="18519402" Size="1076432">
+			<Resources>
+				<Resource Language="fi-fi"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="fil-ph" FileName="OnenoteIm.language-fil-ph.appx" Offset="19595918" Size="1082834">
+			<Resources>
+				<Resource Language="fil-ph"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="fr-ca" FileName="OnenoteIm.language-fr-ca.appx" Offset="20678835" Size="840122">
+			<Resources>
+				<Resource Language="fr-ca"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="fr-fr" FileName="OnenoteIm.language-fr-fr.appx" Offset="21519040" Size="1084317">
+			<Resources>
+				<Resource Language="fr-fr"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="gl-es" FileName="OnenoteIm.language-gl-es.appx" Offset="22603440" Size="1073095">
+			<Resources>
+				<Resource Language="gl-es"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ha-latn-ng" FileName="OnenoteIm.language-ha-latn-ng.appx" Offset="23676623" Size="834717">
+			<Resources>
+				<Resource Language="ha-latn-ng"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="he-il" FileName="OnenoteIm.language-he-il.appx" Offset="24511423" Size="1296407">
+			<Resources>
+				<Resource Language="he-il"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="hi-in" FileName="OnenoteIm.language-hi-in.appx" Offset="25807913" Size="1025687">
+			<Resources>
+				<Resource Language="hi-in"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="hr-hr" FileName="OnenoteIm.language-hr-hr.appx" Offset="26833683" Size="1091555">
+			<Resources>
+				<Resource Language="hr-hr"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="hu-hu" FileName="OnenoteIm.language-hu-hu.appx" Offset="27925321" Size="1047190">
+			<Resources>
+				<Resource Language="hu-hu"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="id-id" FileName="OnenoteIm.language-id-id.appx" Offset="28972594" Size="1043586">
+			<Resources>
+				<Resource Language="id-id"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="is-is" FileName="OnenoteIm.language-is-is.appx" Offset="30016263" Size="1045994">
+			<Resources>
+				<Resource Language="is-is"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="it-it" FileName="OnenoteIm.language-it-it.appx" Offset="31062340" Size="1063002">
+			<Resources>
+				<Resource Language="it-it"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ja-jp" FileName="OnenoteIm.language-ja-jp.appx" Offset="32125425" Size="984021">
+			<Resources>
+				<Resource Language="ja-jp"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="kk-kz" FileName="OnenoteIm.language-kk-kz.appx" Offset="33109529" Size="979870">
+			<Resources>
+				<Resource Language="kk-kz"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="km-kh" FileName="OnenoteIm.language-km-kh.appx" Offset="34089482" Size="932875">
+			<Resources>
+				<Resource Language="km-kh"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="kn-in" FileName="OnenoteIm.language-kn-in.appx" Offset="35022440" Size="1033383">
+			<Resources>
+				<Resource Language="kn-in"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ko-kr" FileName="OnenoteIm.language-ko-kr.appx" Offset="36055906" Size="1022977">
+			<Resources>
+				<Resource Language="ko-kr"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="lo-la" FileName="OnenoteIm.language-lo-la.appx" Offset="37078966" Size="740418">
+			<Resources>
+				<Resource Language="lo-la"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="lt-lt" FileName="OnenoteIm.language-lt-lt.appx" Offset="37819467" Size="1093930">
+			<Resources>
+				<Resource Language="lt-lt"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="lv-lv" FileName="OnenoteIm.language-lv-lv.appx" Offset="38913480" Size="1090170">
+			<Resources>
+				<Resource Language="lv-lv"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="mk-mk" FileName="OnenoteIm.language-mk-mk.appx" Offset="40003733" Size="1063030">
+			<Resources>
+				<Resource Language="mk-mk"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ml-in" FileName="OnenoteIm.language-ml-in.appx" Offset="41066846" Size="1028446">
+			<Resources>
+				<Resource Language="ml-in"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ms-my" FileName="OnenoteIm.language-ms-my.appx" Offset="42095375" Size="1048402">
+			<Resources>
+				<Resource Language="ms-my"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="nb-no" FileName="OnenoteIm.language-nb-no.appx" Offset="43143860" Size="1077481">
+			<Resources>
+				<Resource Language="nb-no"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="nn-no" FileName="OnenoteIm.language-nn-no.appx" Offset="45291882" Size="1137946">
+			<Resources>
+				<Resource Language="nn-no"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="nl-nl" FileName="OnenoteIm.language-nl-nl.appx" Offset="44221424" Size="1070375">
+			<Resources>
+				<Resource Language="nl-nl"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="pl-pl" FileName="OnenoteIm.language-pl-pl.appx" Offset="46429911" Size="1049207">
+			<Resources>
+				<Resource Language="pl-pl"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="pt-br" FileName="OnenoteIm.language-pt-br.appx" Offset="47479201" Size="1112570">
+			<Resources>
+				<Resource Language="pt-br"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="pt-pt" FileName="OnenoteIm.language-pt-pt.appx" Offset="48591854" Size="1091898">
+			<Resources>
+				<Resource Language="pt-pt"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ro-ro" FileName="OnenoteIm.language-ro-ro.appx" Offset="49683835" Size="1045320">
+			<Resources>
+				<Resource Language="ro-ro"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ru-ru" FileName="OnenoteIm.language-ru-ru.appx" Offset="50729238" Size="1109390">
+			<Resources>
+				<Resource Language="ru-ru"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sk-sk" FileName="OnenoteIm.language-sk-sk.appx" Offset="51838711" Size="995037">
+			<Resources>
+				<Resource Language="sk-sk"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sl-si" FileName="OnenoteIm.language-sl-si.appx" Offset="52833831" Size="1068710">
+			<Resources>
+				<Resource Language="sl-si"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sq-al" FileName="OnenoteIm.language-sq-al.appx" Offset="53902624" Size="1050615">
+			<Resources>
+				<Resource Language="sq-al"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sr-cyrl-rs" FileName="OnenoteIm.language-sr-cyrl-rs.appx" Offset="54953327" Size="1064994">
+			<Resources>
+				<Resource Language="sr-cyrl-rs"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sr-latn-rs" FileName="OnenoteIm.language-sr-latn-rs.appx" Offset="56018409" Size="1099073">
+			<Resources>
+				<Resource Language="sr-latn-rs"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sv-se" FileName="OnenoteIm.language-sv-se.appx" Offset="57117565" Size="1058011">
+			<Resources>
+				<Resource Language="sv-se"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="sw-ke" FileName="OnenoteIm.language-sw-ke.appx" Offset="58175659" Size="1043662">
+			<Resources>
+				<Resource Language="sw-ke"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="ta-in" FileName="OnenoteIm.language-ta-in.appx" Offset="59219404" Size="1088057">
+			<Resources>
+				<Resource Language="ta-in"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="te-in" FileName="OnenoteIm.language-te-in.appx" Offset="60307544" Size="1041597">
+			<Resources>
+				<Resource Language="te-in"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="th-th" FileName="OnenoteIm.language-th-th.appx" Offset="61349224" Size="982016">
+			<Resources>
+				<Resource Language="th-th"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="tr-tr" FileName="OnenoteIm.language-tr-tr.appx" Offset="62331323" Size="997295">
+			<Resources>
+				<Resource Language="tr-tr"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="uk-ua" FileName="OnenoteIm.language-uk-ua.appx" Offset="63328701" Size="1106243">
+			<Resources>
+				<Resource Language="uk-ua"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="uz-latn-uz" FileName="OnenoteIm.language-uz-latn-uz.appx" Offset="64435032" Size="1064002">
+			<Resources>
+				<Resource Language="uz-latn-uz"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="vi-vn" FileName="OnenoteIm.language-vi-vn.appx" Offset="65499117" Size="1002737">
+			<Resources>
+				<Resource Language="vi-vn"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="zh-cn" FileName="OnenoteIm.language-zh-cn.appx" Offset="66501937" Size="962564">
+			<Resources>
+				<Resource Language="zh-cn"/>
+			</Resources>
+		</Package>
+		<Package Type="resource" Version="17.9330.20531.0" ResourceId="zh-tw" FileName="OnenoteIm.language-zh-tw.appx" Offset="67464584" Size="948822">
+			<Resources>
+				<Resource Language="zh-tw"/>
+			</Resources>
+		</Package>
+	</Packages>
+</Bundle>
